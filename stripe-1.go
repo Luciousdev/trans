@@ -7,3 +7,4 @@ var hrt string = "/\n"
 func main() {
 	fmt.Printf("/ \\/ \\\n\\    "+hrt+" \\  "+hrt+"  \\/")
 }
+

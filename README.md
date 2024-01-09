@@ -10,7 +10,7 @@ Yes, they all at least run, some even do something!
 - `stripe-2.xslt` was tested with [This XSL Transformation tool](http://www.utilities-online.info/xsltransformation/) and an XML document with at least a valid root element.
 - `stripe-3.emberscript` was tested with the EmberScript editors on <emberscript.com>, and then [Ember Twiddle](https://ember-twiddle.com)
 - `stripe-4.plt` was tested using `gnuplot -p stripe-4.plt`
-- `stripe-5.pde` was tested using [Processing for macOS](https://processing.org)
+- `stripe-5.pde` was tested ish
 
 ## Prior Art
 
